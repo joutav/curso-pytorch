@@ -135,4 +135,5 @@ dmypy.json
 # Dados
 notebooks/parte-2/dados/*
 mao-na-massa/dados/*
+notebooks/parte-3/dados/*
 
